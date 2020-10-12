@@ -1,2 +1,5 @@
-hello: hola
-bye: adios
+properties:
+  hello: hola
+  bye: adios
+
+
